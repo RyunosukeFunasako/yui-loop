@@ -16,7 +16,7 @@
 
 ## 環境構築
 
-```$ git clone https://github.com/matsuda13/hfmy.git```
+```$ git clone https://github.com/RyunosukeFunasako/yui-loop.git```
 
 ```$ cd hfmy```
 
